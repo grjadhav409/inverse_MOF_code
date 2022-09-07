@@ -1,0 +1,16 @@
+metadata_version: 1
+name: Inverse Design of Nanoporous Crystalline Reticular Materials with Deep Generative Models
+description: Supramolecular Variational Autoencoder for Reticular Frameworks
+authors:
+- name: Zhenpeng Yao
+  affiliations:
+  - name: Department of Chemistry and Chemical Biology, Harvard University, 12 Oxford Street, Cambridge, Massachusetts 02138, United States
+- name: Benjamín Sánchez-Lengeling
+  affiliations:
+  - name: Department of Chemistry and Chemical Biology, Harvard University, 12 Oxford Street, Cambridge, Massachusetts 02138, United States
+- name: Alán Aspuru-Guzik
+  affiliations:
+  - name: Chemical Physics Theory Group, Department of Chemistry and Department of Computer Science, University of Toronto, Toronto, Ontario M5S 3H6, Canada
+corresponding_contributor:
+  name: Alán Aspuru-Guzik
+  email: alan@aspuru.com
